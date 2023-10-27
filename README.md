@@ -1,6 +1,6 @@
 # Assembler-CPU
 
-# Description
+## Description
 This project has two sections :
 1. Design an assembler, which is implemented in Java programming language
 2. Design a 6-bit processor with VHDL programming language
